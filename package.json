@@ -1,0 +1,28 @@
+{
+  "name": "roulette",
+  "description": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bowser": "^2.11.0",
+    "easyrtc": "1.0.x",
+    "ejs": "^3.1.5",
+    "express": "3.x",
+    "express-session": "^1.17.1",
+    "express-useragent": "^1.0.15",
+    "log4js": "^6.3.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "socket.io": "0.9.x",
+    "useragent": "^2.3.0",
+    "yamlparser": "0.0.2"
+  },
+  "scripts": {
+    "start": "node server.js > logs.txt"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "author": "Ismail Hasanov",
+  "license": "MIT"
+}

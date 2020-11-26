@@ -1,0 +1,62 @@
+[32m[1minfo   [22m[39m - [1mEasyRTC: [22mStarting EasyRTC Server (v1.0.15) on Node (v14.15.0)
+[90m2020-11-24T14:53:49.084Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mEmitting event 'startup'
+[90m2020-11-24T14:53:49.084Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mRunning func 'onStartup'
+[90m2020-11-24T14:53:49.087Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mConfiguring Http server
+[90m2020-11-24T14:53:49.087Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mSetting up demos to be accessed from '/demos/'
+[90m2020-11-24T14:53:49.087Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mSetting up API files to be accessed from '/easyrtc/'
+[90m2020-11-24T14:53:49.088Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mConfiguring Socket server
+[90m2020-11-24T14:53:49.088Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mCreating application: 'default'
+[90m2020-11-24T14:53:49.089Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[default] Room [default] Running func 'onRoomCreate'
+[90m2020-11-24T14:53:49.089Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mCreating room: 'default' with options: {}
+[90m2020-11-24T14:53:49.098Z[39m - [32m[1minfo   [22m[39m - [1mEasyRTC: [22mEasyRTC Server Ready For Connections (v1.0.15)
+[90m2020-11-24T14:53:50.066Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[OSyXOIDi5O8unZ1PvxiV] Socket connected
+[90m2020-11-24T14:53:50.068Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mEmitting event 'connection'
+[90m2020-11-24T14:53:50.069Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mRunning func 'onConnection'
+[90m2020-11-24T14:53:50.073Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[OSyXOIDi5O8unZ1PvxiV] Running func 'onEasyrtcAuth'
+[90m2020-11-24T14:53:50.074Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mAttempt to request non-existent application name: 'enlargify_app'
+[90m2020-11-24T14:53:50.075Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mEmitting Authenticate
+[90m2020-11-24T14:53:50.075Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mCreating application: 'enlargify_app'
+[90m2020-11-24T14:53:50.076Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app] Room [default] Running func 'onRoomCreate'
+[90m2020-11-24T14:53:50.076Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mCreating room: 'default' with options: {}
+[90m2020-11-24T14:53:50.077Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[6wSdBLZFKwayqaxfvxiW] Socket connected
+[90m2020-11-24T14:53:50.077Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mEmitting event 'connection'
+[90m2020-11-24T14:53:50.077Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mRunning func 'onConnection'
+[90m2020-11-24T14:53:50.079Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onRoomJoin'
+[90m2020-11-24T14:53:50.080Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Room [default] Running func 'connectionRoomObj.emitRoomDataDelta'
+[90m2020-11-24T14:53:50.080Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Room [default] Running func 'connectionRoomObj.generateRoomDataDelta'
+[90m2020-11-24T14:53:50.081Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onSendToken'
+[90m2020-11-24T14:53:50.082Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onGetIceConfig'
+[90m2020-11-24T14:53:50.088Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[6wSdBLZFKwayqaxfvxiW] Running func 'onEasyrtcAuth'
+[90m2020-11-24T14:53:50.091Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22mEmitting Authenticate
+[90m2020-11-24T14:53:50.091Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Running func 'onRoomJoin'
+[90m2020-11-24T14:53:50.092Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Room [default] Running func 'connectionRoomObj.emitRoomDataDelta'
+[90m2020-11-24T14:53:50.092Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Room [default] Running func 'connectionRoomObj.generateRoomDataDelta'
+[90m2020-11-24T14:53:50.092Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onEmitEasyrtcCmd' with msgType [roomData]
+[90m2020-11-24T14:53:50.093Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Running func 'onSendToken'
+[90m2020-11-24T14:53:50.093Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Running func 'onGetIceConfig'
+[90m2020-11-24T14:53:50.096Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] EasyRTC command received with msgType [setRoomApiField]
+[90m2020-11-24T14:53:50.098Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onMsgTypeSetRoomApiField' with apiFieldObj:  {
+  roomName: [32m'default'[39m,
+  field: {
+    mediaIds: {
+      fieldName: [32m'mediaIds'[39m,
+      fieldValue: { default: [32m'8XrD3lgQwH14HFTQCgrTYPnBmQjtJcN1v3Jo'[39m }
+    }
+  }
+}
+[90m2020-11-24T14:53:50.100Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Room [default] Running func 'connectionRoomObj.emitRoomDataDelta'
+[90m2020-11-24T14:53:50.100Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Room [default] Running func 'connectionRoomObj.generateRoomDataDelta'
+[90m2020-11-24T14:53:50.100Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Running func 'onEmitEasyrtcCmd' with msgType [roomData]
+[90m2020-11-24T14:53:50.106Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] EasyRTC command received with msgType [setRoomApiField]
+[90m2020-11-24T14:53:50.107Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Running func 'onMsgTypeSetRoomApiField' with apiFieldObj:  {
+  roomName: [32m'default'[39m,
+  field: {
+    mediaIds: {
+      fieldName: [32m'mediaIds'[39m,
+      fieldValue: { default: [32m'QwWSSPE4foQbA4fsS5bN037bjEz2eWqMdbJw'[39m }
+    }
+  }
+}
+[90m2020-11-24T14:53:50.107Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Room [default] Running func 'connectionRoomObj.emitRoomDataDelta'
+[90m2020-11-24T14:53:50.107Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][6wSdBLZFKwayqaxfvxiW] Room [default] Running func 'connectionRoomObj.generateRoomDataDelta'
+[90m2020-11-24T14:53:50.107Z[39m - [34m[1mdebug  [22m[39m - [1mEasyRTC: [22m[enlargify_app][OSyXOIDi5O8unZ1PvxiV] Running func 'onEmitEasyrtcCmd' with msgType [roomData]

@@ -1,0 +1,228 @@
+html, body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #1c1e20;
+
+}
+
+
+#video_container{
+  width: 25%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#video_container video{
+  width: 100%;
+  height: 45%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.partnerVideo{
+  margin-top: 22px;
+}
+
+
+.tttt{
+  display: flex;
+  flex-direction:column ;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 80vh;
+  margin-right: 10px;
+
+}
+
+
+#messages_container{
+  width: 100%;
+  height: 80%;
+  color: #fff;
+  background-color: #1c1e20;
+  font-size: medium;
+  overflow-y: scroll;
+  
+
+}
+
+.textarea1{
+  width: 100%;
+  
+}
+
+.textarea1 a{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textarea1 #textarea{
+  color: #fff;
+  background-color: #1c1e20;
+  font-size: medium;
+  width: 85%;
+}
+
+.btns{
+  padding-top: 20px;
+  width: 20%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+#btnStart{
+  background-color: #000;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.btn1{
+  position: relative;
+}
+
+
+
+#send_btn{
+  width: 10%;
+  margin-left: 4%;
+  padding-top: 15px;
+}
+
+@media(max-width:900px){
+  
+  
+  #video_container{
+    width: 90%;
+    height: 50%;
+    margin-bottom: 10px;
+  }
+
+
+  #video_container .selfVideo {
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    object-fit: cover;
+  }
+
+
+.tttt{
+  display: flex;
+  flex-direction:column ;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 50vh;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+
+
+
+.btns{
+  padding-top: 10px;
+  width: 90%;
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+.btn1{
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+  .contsa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+
+/* 
+video{
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+}
+
+
+
+textarea {
+  width: 100%;
+}
+
+.height-fill { 
+  min-height: 100%;
+  height: 100%;
+}
+
+.pos-top {
+  position: fixed;
+  margin: 0;
+  height: 65px;
+  top: 5px;
+  left: 0;
+  right: 0;
+}
+
+.pos-middle {
+  margin: 0;
+  padding: 75px 0 150px 0;
+}
+
+.pos-bottom {
+  position: fixed;
+  margin: 0;
+  height: 100px;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+}
+
+.shortcut {
+  display: block;
+}
+
+
+#messages_container{
+  width: 525px;
+  margin-left: 250px;
+  background-color: #1c1e20;
+  color: aliceblue;
+}
+
+textarea{
+  width: 530px;
+  margin-left: 242px;
+  background-color: #1c1e20;
+  color: aliceblue;
+}
+
+
+#user_container{
+  background-color: #1c1e20;
+  color: aliceblue;
+} */
