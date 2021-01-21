@@ -13,7 +13,7 @@
     "log4js": "^6.3.0",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
-    "socket.io": "0.9.x",
+    "socket.io": "2.4.x",
     "useragent": "^2.3.0",
     "yamlparser": "0.0.2"
   },
