@@ -7,7 +7,7 @@
     "bowser": "^2.11.0",
     "easyrtc": "1.0.x",
     "ejs": "^3.1.5",
-    "express": "3.x",
+    "express": "4.x",
     "express-session": "^1.17.1",
     "express-useragent": "^1.0.15",
     "log4js": "^6.3.0",
